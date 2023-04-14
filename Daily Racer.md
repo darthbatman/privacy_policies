@@ -6,4 +6,4 @@ The Advertising Identifier (IDFA) is a unique ID for each iOS device and is the 
 
 This app uses the Advertising Identifier through AdMob and respects the Limit Ad Tracking setting.
 
-The user data stored on the app is limited to the user's game data. No additional user data is stored outside of the application itself. The user's game data will be retained until the app is deleted. If the app is deleted, the user's game data, which is all the user data the app stores, will be deleted.
+The user data stored on the app is limited to the user's game data. Each completed lap is recorded and saved on an external server. The user's game data will be retained until the app is deleted. If the app is deleted, the user's game data will be deleted, except for the laps the user has completed, which will remain on the external server.
