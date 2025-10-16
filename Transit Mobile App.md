@@ -1,4 +1,4 @@
-# CTA Train & Bus Privacy Policy
+# Privacy Policy
 
 This app uses the user's location while the app is in use to find bus stops near the user. The user's location is not used or stored when the user is not using the app.
 
